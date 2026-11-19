@@ -2,15 +2,17 @@
 
 <img src="./assets/banner.svg" alt="Awesome Voice AI & Text-To-Speech Benchmarking Banner" width="100%" />
 
-# Awesome Voice AI & Text-to-Speech (TTS) Benchmarking
+# 🎙️ Awesome Voice AI & Text-to-Speech (TTS) Benchmarking ⚡
 
+<a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![License: CC0-1.0](https://img.shields.io/badge/License-CC0_1.0-lightgrey.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/ishandutta2007/Awesome-Voice-AI-Text-To-Speech-Benchmarking/pulls)
-[![TTS Arena Benchmark](https://img.shields.io/badge/TTS_Arena-Rankings-blueviolet.svg)](#saashosted-platforms)
-[![Zero-Shot Voice Cloning](https://img.shields.io/badge/Voice_Cloning-Zero--Shot-orange.svg)](#open-source-github-projects)
+[![TTS Arena Benchmark](https://img.shields.io/badge/TTS_Arena-Rankings-blueviolet.svg)](#-saashosted-platforms)
+[![Zero-Shot Voice Cloning](https://img.shields.io/badge/Voice_Cloning-Zero--Shot-orange.svg)](#-open-source-github-projects)
+<a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
 
-**A curated index of state-of-the-art Neural Text-to-Speech (TTS) engines, zero-shot voice cloning foundation models, TTS Arena ELO leaderboards, MOS/WER evaluation suites, and conversational voice AI infrastructure.**
+**A curated index of state-of-the-art Neural Text-to-Speech (TTS) engines, zero-shot voice cloning foundation models, TTS Arena ELO leaderboards, MOS/WER evaluation suites, and conversational voice AI infrastructure.** 🎧🚀
 
 *Last updated: November 2026*
 
@@ -18,28 +20,30 @@
 
 </div>
 
-## Table of Contents
+## 📑 Table of Contents
 
-- [Sector Overview & Market Dynamics](#sector-overview--market-dynamics)
-- [SaaS/Hosted Platforms](#saashosted-platforms)
-- [Open-Source GitHub Projects](#open-source-github-projects)
-- [Key Benchmarking Dimensions](#key-benchmarking-dimensions)
-- [How to Contribute](#how-to-contribute)
-- [Disclaimer & License](#disclaimer--license)
-
----
-
-## Sector Overview & Market Dynamics
-
-The global Voice AI and Text-to-Speech (TTS) sector is projected to expand from **$4.1B–$4.4B in 2026 to $8B–$11.5B by 2030** for standalone speech synthesis (~15–19% CAGR), while the broader conversational voice AI and real-time generative audio ecosystem is surging toward **$21B–$35B by 2030** (~30–39% CAGR). 
-
-The industry displays a bifurcated market structure: **moderately concentrated at the cloud hyperscale foundation layer** (where major cloud providers like Microsoft Azure, Google Cloud, AWS, and frontier foundation labs command nearly 47% of core enterprise infrastructure revenue), yet **highly fragmented across vertical applications and specialized voice cloning agents** (where agile platforms such as ElevenLabs, Cartesia, WellSaid Labs, and Murf compete aggressively on sub-90ms streaming latency, expressive conversational prosody, and specialized workflow tooling).
+- [🌐 Sector Overview & Market Dynamics](#-sector-overview--market-dynamics)
+- [☁️ SaaS/Hosted Platforms](#️-saashosted-platforms)
+- [💻 Open-Source GitHub Projects](#-open-source-github-projects)
+- [🔬 Key Benchmarking Dimensions](#-key-benchmarking-dimensions)
+- [📈 Star History](#-star-history)
+- [🤝 Support & Sponsorship](#-support--sponsorship)
+- [🛠️ How to Contribute](#️-how-to-contribute)
+- [📜 Disclaimer & License](#-disclaimer--license)
 
 ---
 
-## SaaS/Hosted Platforms
+## 🌐 Sector Overview & Market Dynamics
 
-The following hosted voice AI platforms provide commercial text-to-speech, real-time voice streaming APIs, instant voice cloning, and objective ELO-based speech arena evaluations. Platforms are sorted in descending order by estimated valuation/market cap scale.
+The global Voice AI and Text-to-Speech (TTS) sector is projected to expand from **$4.1B–$4.4B in 2026 to $8B–$11.5B by 2030** for standalone speech synthesis (~15–19% CAGR), while the broader conversational voice AI and real-time generative audio ecosystem is surging toward **$21B–$35B by 2030** (~30–39% CAGR). 📈
+
+The industry displays a bifurcated market structure: **moderately concentrated at the cloud hyperscale foundation layer** (where major cloud providers like Microsoft Azure, Google Cloud, AWS, and frontier foundation labs command nearly 47% of core enterprise infrastructure revenue), yet **highly fragmented across vertical applications and specialized voice cloning agents** (where agile platforms such as ElevenLabs, Cartesia, WellSaid Labs, and Murf compete aggressively on sub-90ms streaming latency, expressive conversational prosody, and specialized workflow tooling). 🎯
+
+---
+
+## ☁️ SaaS/Hosted Platforms
+
+The following hosted voice AI platforms provide commercial text-to-speech, real-time voice streaming APIs, instant voice cloning, and objective ELO-based speech arena evaluations. Platforms are sorted in descending order by estimated valuation/market cap scale. 🏆
 
 | Platform | Starting Tier Pricing | Free Tier Limits | Scale / Valuation | Key Strengths & Architecture |
 | :--- | :--- | :--- | :--- | :--- |
@@ -58,9 +62,9 @@ The following hosted voice AI platforms provide commercial text-to-speech, real-
 
 ---
 
-## Open-Source GitHub Projects
+## 💻 Open-Source GitHub Projects
 
-Curated collection of open-source neural text-to-speech models, diffusion audio synthesis frameworks, dialogue-first speech LLMs, and automated evaluation suites. Each repository includes a star count badge linking directly to its GitHub Stargazers page, sorted by star count in descending order.
+Curated collection of open-source neural text-to-speech models, diffusion audio synthesis frameworks, dialogue-first speech LLMs, and automated evaluation suites. Each repository includes a star count badge linking directly to its GitHub Stargazers page, sorted by star count in descending order. 🌟
 
 | Project & Repository | Stars | Primary Architecture | Description & Core Capabilities |
 | :--- | :--- | :--- | :--- |
@@ -74,7 +78,7 @@ Curated collection of open-source neural text-to-speech models, diffusion audio 
 | **[CosyVoice & CosyVoice 2](https://github.com/FunAudioLLM/CosyVoice)** | [![Stars](https://img.shields.io/github/stars/FunAudioLLM/CosyVoice?style=social&color=white)](https://github.com/FunAudioLLM/CosyVoice/stargazers) | Flow Matching + Multi-Scale DiT | Alibaba's Apache-2.0 speech generation foundation model featuring multi-lingual zero-shot cloning, fine-grained cross-lingual emotion steering, and streaming inference. |
 | **[Dia-1.6B](https://github.com/nari-labs/dia)** | [![Stars](https://img.shields.io/github/stars/nari-labs/dia?style=social&color=white)](https://github.com/nari-labs/dia/stargazers) | Dialogue Speech Foundation Model | 1.6-billion-parameter open-weight dialogue-first TTS model natively synthesizing multi-party conversations and non-verbal conversational tokens from script tags. |
 | **[F5-TTS](https://github.com/SWivid/F5-TTS)** | [![Stars](https://img.shields.io/github/stars/SWivid/F5-TTS?style=social&color=white)](https://github.com/SWivid/F5-TTS/stargazers) | Flow-Matching Diffusion Transformer | Non-autoregressive Flow Matching DiT for text-to-speech with high zero-shot naturalness, multi-speaker dialogue sequencing, and speedup via ODE solvers. |
-| **[Sesame CSM-1B](https://github.com/SesameAILabs/csm)** | [![Stars](https://img.shields.io/github/stars/SesameAILabs/csm?style=social&color=white)](https://github.com/SesameAILabs/csm/stargazers) | Conversational Speech Model | Context-aware generative dialogue speech model conditioning prosody and vocal acoustics on antecedent multi-turn conversational history. |
+| **[Sesame CSM-1B](https://github.com/SesameAILabs/csm)** | [![Stars](https://img.shields.io/github/stars/SesameAILabs/csm/stargazers) | Conversational Speech Model | Context-aware generative dialogue speech model conditioning prosody and vocal acoustics on antecedent multi-turn conversational history. |
 | **[SpeechBrain](https://github.com/speechbrain/speechbrain)** | [![Stars](https://img.shields.io/github/stars/speechbrain/speechbrain?style=social&color=white)](https://github.com/speechbrain/speechbrain/stargazers) | PyTorch Speech Toolkit | Comprehensive, all-in-one conversational speech toolkit supporting end-to-end TTS, ASR, voice activity detection, speaker verification, and emotion classification. |
 | **[Moshi](https://github.com/kyutai-labs/moshi)** | [![Stars](https://img.shields.io/github/stars/kyutai-labs/moshi?style=social&color=white)](https://github.com/kyutai-labs/moshi/stargazers) | Full-Duplex Audio-Language Model | Real-time speech-text foundation model by Kyutai Labs operating full-duplex conversational audio with sub-200ms latency in PyTorch and Rust. |
 | **[Piper TTS](https://github.com/rhasspy/piper)** | [![Stars](https://img.shields.io/github/stars/rhasspy/piper?style=social&color=white)](https://github.com/rhasspy/piper/stargazers) | VITS + ONNX Runtime | Ultra-fast, lightweight, private local neural text-to-speech engine running faster than real-time on Raspberry Pi 4 and edge/IoT home automation hardware. |
@@ -86,7 +90,7 @@ Curated collection of open-source neural text-to-speech models, diffusion audio 
 | **[VITS](https://github.com/jaywalnut310/vits)** | [![Stars](https://img.shields.io/github/stars/jaywalnut310/vits?style=social&color=white)](https://github.com/jaywalnut310/vits/stargazers) | Variational Autoencoder + GAN | Foundational single-stage parallel end-to-end text-to-speech architecture utilizing variational inference and adversarial training for natural prosody. |
 | **[MeloTTS](https://github.com/myshell-ai/MeloTTS)** | [![Stars](https://img.shields.io/github/stars/myshell-ai/MeloTTS?style=social&color=white)](https://github.com/myshell-ai/MeloTTS/stargazers) | High-Speed Multilingual TTS | Ultra-lightweight multilingual text-to-speech system by MyShell featuring native accent support in English, Spanish, French, Chinese, Japanese, and Korean on standard CPU. |
 | **[Orpheus-TTS](https://github.com/canopyai/Orpheus-TTS)** | [![Stars](https://img.shields.io/github/stars/canopyai/Orpheus-TTS?style=social&color=white)](https://github.com/canopyai/Orpheus-TTS/stargazers) | Llama Speech-LLM | Apache-2.0 speech language model engineered with inline paralinguistic tags (`<laugh>`, `<sigh>`, `<gasp>`) and ultra-low streaming latency. |
-| **[StyleTTS 2](https://github.com/yl4579/StyleTTS2)** | [![Stars](https://img.shields.io/github/stars/yl4579/StyleTTS2?style=social&color=white)](https://github.com/yl4579/StyleTTS2/stargazers) | Diffusion Style Modeling + SLM | Breakthrough end-to-end TTS architecture combining diffusion models and large speech language model discriminators to achieve human-level speech naturalness. |
+| **[StyleTTS 2](https://github.com/yl4579/StyleTTS2)** | [![Stars](https://img.shields.io/github/stars/yl4579/StyleTTS2)](https://github.com/yl4579/StyleTTS2/stargazers) | Diffusion Style Modeling + SLM | Breakthrough end-to-end TTS architecture combining diffusion models and large speech language model discriminators to achieve human-level speech naturalness. |
 | **[Parler-TTS](https://github.com/huggingface/parler-tts)** | [![Stars](https://img.shields.io/github/stars/huggingface/parler-tts?style=social&color=white)](https://github.com/huggingface/parler-tts/stargazers) | Controllable Audio Transformer | Lightweight open-source model by Hugging Face generating speech conditioned on natural-language descriptive prompts (speaker gender, pitch, cadence, and room acoustics). |
 | **[WhisperSpeech](https://github.com/collabora/WhisperSpeech)** | [![Stars](https://img.shields.io/github/stars/collabora/WhisperSpeech?style=social&color=white)](https://github.com/collabora/WhisperSpeech/stargazers) | Inverted Whisper + EnCodec | Open-source text-to-speech architecture designed by Collabora and Lion, reversing Whisper representations to synthesize clean, natural speech from text. |
 | **[Coqui-TTS (Idiap Community Fork)](https://github.com/idiap/coqui-ai-TTS)** | [![Stars](https://img.shields.io/github/stars/idiap/coqui-ai-TTS?style=social&color=white)](https://github.com/idiap/coqui-ai-TTS/stargazers) | Community-Maintained Coqui Suite | Active open-source continuation and maintenance fork of the official Coqui TTS library by Idiap Research Institute with modern CUDA and PyTorch compatibility. |
@@ -96,7 +100,7 @@ Curated collection of open-source neural text-to-speech models, diffusion audio 
 
 ---
 
-## Key Benchmarking Dimensions
+## 🔬 Key Benchmarking Dimensions
 
 When comparing Text-to-Speech models across enterprise and open-source stacks, consider the following evaluation metrics:
 
@@ -120,16 +124,35 @@ flowchart LR
     E --> E2["Prosody & Emotion Consistency"]
 ```
 
-1. **Blind Human ELO (TTS Arena):** Crowdsourced A/B listening evaluations (pioneered by Artificial Analysis and Hugging Face Open TTS Leaderboard) rating comparative realism, emotional resonance, and listener preference.
-2. **Mean Opinion Score (MOS):** Standardized metric (1.0 to 5.0) measuring naturalness, predicted automatically via neural models like `UTMOSv2` or collected via human MUSHRA listening tests.
-3. **Intelligibility (WER & CER):** Objective evaluation calculated by feeding synthesized audio back into leading automatic speech recognition (ASR) models (e.g., Whisper-large-v3, Paraformer) to measure mispronounced or dropped words.
-4. **Speaker Similarity (SIM-o):** Cosine similarity between speaker embeddings (extracted via `WavLM-TDNN` or `ECAPA-TDNN`) of the reference audio and the synthesized output.
-5. **Time-to-First-Audio (TTFA):** Streaming synthesis latency from request receipt to the first audio packet, vital for real-time conversational agents (target: `<100ms`).
-6. **Real-Time Factor (RTF):** Ratio of synthesis compute time to audio duration. An RTF of `< 0.1` indicates the model generates 10 seconds of audio in under 1 second.
+1. **Blind Human ELO (TTS Arena):** Crowdsourced A/B listening evaluations (pioneered by Artificial Analysis and Hugging Face Open TTS Leaderboard) rating comparative realism, emotional resonance, and listener preference. 🎧
+2. **Mean Opinion Score (MOS):** Standardized metric (1.0 to 5.0) measuring naturalness, predicted automatically via neural models like `UTMOSv2` or collected via human MUSHRA listening tests. 📊
+3. **Intelligibility (WER & CER):** Objective evaluation calculated by feeding synthesized audio back into leading automatic speech recognition (ASR) models (e.g., Whisper-large-v3, Paraformer) to measure mispronounced or dropped words. 📝
+4. **Speaker Similarity (SIM-o):** Cosine similarity between speaker embeddings (extracted via `WavLM-TDNN` or `ECAPA-TDNN`) of the reference audio and the synthesized output. 🧬
+5. **Time-to-First-Audio (TTFA):** Streaming synthesis latency from request receipt to the first audio packet, vital for real-time conversational agents (target: `<100ms`). ⏱️
+6. **Real-Time Factor (RTF):** Ratio of synthesis compute time to audio duration. An RTF of `< 0.1` indicates the model generates 10 seconds of audio in under 1 second. ⚡
 
 ---
 
-## How to Contribute
+## 📈 Star History
+
+[![Star History Chart](https://star-history.dera.page/svg?repos=ishandutta2007/Awesome-Voice-AI-Text-To-Speech-Benchmarking&type=date&legend=top-left)](https://star-history.dera.page/#ishandutta2007/Awesome-Voice-AI-Text-To-Speech-Benchmarking&type=date&legend=top-left)
+[![Star History Chart](https://www.star-history.com/svg?repos=ishandutta2007/Awesome-Voice-AI-Text-To-Speech-Benchmarking&type=date&legend=top-left)](https://www.star-history.com/#ishandutta2007/Awesome-Voice-AI-Text-To-Speech-Benchmarking&type=date&legend=top-left)
+
+---
+
+## 🤝 Support & Sponsorship
+
+Thank you so much for using and exploring this Voice AI & Text-to-Speech benchmarking repository! ⭐
+
+If you find this curated directory helpful for your research, voice agent builds, or generative audio projects, please consider:
+- **Starring (⭐)** the repository on GitHub to help others discover it.
+- **Forking (🍴)** and contributing new TTS foundation models and benchmark results.
+- **Sharing (📢)** this resource with fellow speech engineers, audio researchers, and AI builders.
+- **Sponsoring / Buying a Coffee (☕)**: If you'd like to support ongoing curation and benchmarking updates, check out the [Sponsor Dashboard](https://github.com/sponsors/ishandutta2007). Every contribution makes a huge difference! 💖
+
+---
+
+## 🛠️ How to Contribute
 
 Contributions are warmly encouraged! To propose a new SaaS platform, foundation model, or benchmarking harness:
 
@@ -142,7 +165,7 @@ Contributions are warmly encouraged! To propose a new SaaS platform, foundation 
 
 ---
 
-## Disclaimer & License
+## 📜 Disclaimer & License
 
 - **Disclaimer:** Product pricing, free tier limits, and corporate valuations represent public and industry estimates recorded as of late 2026. Official vendor terms may vary over time.
 - **License:** Content curated in this repository is distributed under the [Creative Commons Zero v1.0 Universal (CC0-1.0)](https://creativecommons.org/publicdomain/zero/1.0/) public domain dedication.
