@@ -64,9 +64,9 @@ The following hosted voice AI platforms provide commercial text-to-speech, real-
 
 ## 💻 Open-Source GitHub Projects
 
-Curated collection of open-source neural text-to-speech models, diffusion audio synthesis frameworks, dialogue-first speech LLMs, and automated evaluation suites. Each repository includes a star count badge linking directly to its GitHub Stargazers page, sorted by star count in descending order. 🌟
+Curated collection of open-source neural text-to-speech models, diffusion audio synthesis frameworks, dialogue-first speech LLMs, and automated evaluation suites. Each repository includes a Stars_Count badge linking directly to its GitHub Stargazers page, sorted by Stars_Count in descending order. 🌟
 
-| Project & Repository | Stars | Primary Architecture | Description & Core Capabilities |
+| Project & Repository | GitHub_Stars | Primary Architecture | Description & Core Capabilities |
 | :--- | :--- | :--- | :--- |
 | **[VoiceStudio](https://github.com/debpalash/VoiceStudio)** | [![Stars](https://img.shields.io/github/stars/debpalash/VoiceStudio?style=social&color=white)](https://github.com/debpalash/VoiceStudio/stargazers) | Desktop AI Studio & Multi-TTS Workbench | Comprehensive desktop workbench integrating leading open-weight TTS engines, real-time voice cloning, audio post-processing, and multi-speaker script rendering. |
 | **[GPT-SoVITS](https://github.com/RVC-Boss/GPT-SoVITS)** | [![Stars](https://img.shields.io/github/stars/RVC-Boss/GPT-SoVITS?style=social&color=white)](https://github.com/RVC-Boss/GPT-SoVITS/stargazers) | Few-Shot GPT + VITS | Powerful zero-shot and 1-minute few-shot voice cloning and cross-lingual TTS supporting English, Japanese, and Chinese with interactive WebUI and fine-tuning toolkits. |
